@@ -1,0 +1,15 @@
+{
+    "name": "ember/blog",
+    "autoload": {
+        "psr-4": {
+            "Ember\\Blog\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ember",
+            "email": "fire88soul@gmail.com"
+        }
+    ],
+    "require": {}
+}
